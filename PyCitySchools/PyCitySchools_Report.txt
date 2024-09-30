@@ -1,0 +1,27 @@
+PyCitySchools Report
+
+Scores by School Type Summary
+The “Overall Passing” for Charter Schools is 90% which is considerably higher vs. District Schools at only 53%.
+
+Scores by School Size Summary
+“Overall Passing" for Small and Medium Size Schools is 89% - 90% which again is considerably higher vs. "Large Schools" at only 58%
+
+Scores by School Size Table
+There is only one "Large Size - Charter School" of which the "Overall Passing" is still 90%. This could mean that the size of the school may not be a factor when comparing "Charter vs. District".
+
+Scores by School Spending Summary - Spending Ranges (Per Student)
+The two ‘Lowest Spending Ranges’ have an ‘Overall Passing’ of 90% and 96% vs. the two ‘Highest Spending Ranges’ of 62% and 53%. Therefore, spending more per student does not make for better performance.  
+
+Scores by School Spending Table
+Most of the Charter Schools are in the lowest spending ranges which indicates that the District Schools are spending more per student.
+
+In conclusion, there is an obvious difference with "Charter Schools vs. District Schools". Charter Schools are spending less per student, and the students are performing close to 50% better then District Schools. Further investigation would be useful to determine why this is the case.
+
+ 
+ 
+
+
+
+
+
+
